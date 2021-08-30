@@ -1,6 +1,6 @@
 # Atena CLI
 
-![Atena CLI](Atena.png "Atena Logo")
+![Atena CLI](Atena%20CLI.png "Atena Logo")
 
 ### The official CLI of Atena DB.
 
