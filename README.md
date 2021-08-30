@@ -68,7 +68,7 @@ Atena-CLI is cross-platform and is available in:
 
 ## Installation
 
-1. Download the pre-compiled version of Atena-CLI compatible with you system from the [Release section of this repo](). 
+1. Download the pre-compiled version of Atena-CLI compatible with you system from the [Release section of this repo](https://github.com/mchl-coder/atenadb-cli/releases). 
 2. Then simply run it.
 3. Congratulation Atena CLi is set up 🎉
 
