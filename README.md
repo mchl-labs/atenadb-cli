@@ -9,6 +9,8 @@ Thanks to Atena-CLI you will be able to manage and easily use your Atena install
 
 Atena has a number of commands and sometimes, as you test things, you may not remember the exact command. Atena-CLI provides help for commands use, using the `help` command.
 
+> 💡: Remember, Atena CLI default connects to AtenaDb server at localhost:5001. This choice is for security reasons. It is meant to prevent "accidentally" running commands and taking control of others AtenaDb. (If their owners haven’t changed their Admin default password)
+
 ## Atena commands
 
 By typing `help` you'll get all commands:
@@ -45,9 +47,11 @@ Exit            syntax: exit
 Clear           syntax: clear
 Help            syntax: help
 ```
+
 AtenaDb will drive you through complex commands step by step.
 
-> **Tip:** Use Atena-CLI to learn how Atena DB works and master it.
+
+> 💡: Use Atena-CLI to learn how Atena DB works and master it.
 
 ## Security
 
@@ -68,9 +72,11 @@ Atena-CLI is cross-platform and is available in:
 
 ## Installation
 
-1. Download the pre-compiled version of Atena-CLI compatible with you system from the [Release section of this repo](https://github.com/mchl-coder/atenadb-cli/releases). 
+1. Download the pre-compiled version of Atena-CLI compatible with you system from the Release section of Github AtenaCLI repo. 
 2. Then simply run it.
 3. Congratulation Atena CLi is set up 🎉
+
+> ⚠️ RECOMMENDATION: Once you have logged in, change your default Admin password immediately.
 
 ### Requirements:
 
